@@ -7,6 +7,7 @@ using System;
 using System.Collections.Generic;
 using UnityEngine;
 using Utilla;
+using Utilla.Attributes;
 
 namespace GorillaShotForce
 {
